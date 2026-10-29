@@ -1,0 +1,301 @@
+product_id,name,category,price_usd,rating,review_count,monthly_sales
+0001,USB-C Hub #001,Electronics,153.83,3.7,21,156
+0002,LED Monitor #002,Electronics,111.98,3.5,44,345
+0003,Bluetooth Speaker #003,Electronics,165.89,3.4,42,368
+0004,LED Monitor #004,Electronics,256.98,3.8,14,254
+0005,Mechanical Keyboard #005,Electronics,106.74,4.0,28,425
+0006,Mechanical Keyboard #006,Electronics,106.74,3.9,93,668
+0007,Bluetooth Speaker #007,Electronics,264.3,3.3,242,2189
+0008,USB-C Hub #008,Electronics,176.13,3.5,28,556
+0009,Wireless Mouse #009,Electronics,94.89,3.7,35,594
+0010,Bluetooth Speaker #010,Electronics,157.4,3.9,53,456
+0011,Wireless Mouse #011,Electronics,95.18,3.4,5,104
+0012,Webcam #012,Electronics,95.07,3.5,31,473
+0013,Wireless Mouse #013,Electronics,135.43,3.2,53,508
+0014,USB-C Hub #014,Electronics,46.1,3.5,413,3473
+0015,Webcam #015,Electronics,50.65,4.2,47,415
+0016,Wireless Mouse #016,Electronics,90.59,4.1,44,616
+0017,Webcam #017,Electronics,72.32,3.6,56,470
+0018,Wireless Mouse #018,Electronics,140.42,4.0,14,190
+0019,USB-C Hub #019,Electronics,76.21,3.7,99,1207
+0020,Wireless Mouse #020,Electronics,59.22,3.7,110,883
+0021,Wireless Mouse #021,Electronics,249.71,3.7,104,911
+0022,Wireless Mouse #022,Electronics,107.19,4.1,31,233
+0023,Bluetooth Speaker #023,Electronics,124.12,3.6,172,1487
+0024,Bluetooth Speaker #024,Electronics,58.86,4.5,16,157
+0025,Bluetooth Speaker #025,Electronics,91.41,2.7,45,774
+0026,USB-C Hub #026,Electronics,126.84,3.9,242,2792
+0027,Webcam #027,Electronics,67.49,3.6,16,219
+0028,Mechanical Keyboard #028,Electronics,144.8,3.5,22,307
+0029,Wireless Mouse #029,Electronics,88.87,3.6,77,524
+0030,Wireless Mouse #030,Electronics,103.71,2.9,28,323
+0031,USB-C Hub #031,Electronics,88.82,3.5,19,140
+0032,Wireless Mouse #032,Electronics,302.97,3.7,57,511
+0033,Bluetooth Speaker #033,Electronics,119.19,4.1,26,206
+0034,Mechanical Keyboard #034,Electronics,70.71,3.4,70,707
+0035,LED Monitor #035,Electronics,181.05,3.3,24,232
+0036,Wireless Mouse #036,Electronics,65.17,3.4,165,1672
+0037,Bluetooth Speaker #037,Electronics,133.21,3.9,17,258
+0038,LED Monitor #038,Electronics,45.04,4.1,45,374
+0039,Mechanical Keyboard #039,Electronics,61.77,3.4,72,928
+0040,LED Monitor #040,Electronics,132.41,3.8,9,180
+0041,Bluetooth Speaker #041,Electronics,173.6,3.6,66,580
+0042,Webcam #042,Electronics,130.74,3.9,93,1377
+0043,Webcam #043,Electronics,113.26,3.4,19,133
+0044,LED Monitor #044,Electronics,103.23,3.5,81,561
+0045,USB-C Hub #045,Electronics,57.3,3.8,84,595
+0046,LED Monitor #046,Electronics,83.73,3.1,78,904
+0047,Wireless Mouse #047,Electronics,95.31,3.7,9,179
+0048,Wireless Mouse #048,Electronics,203.58,3.7,23,168
+0049,Webcam #049,Electronics,142.49,3.6,68,735
+0050,USB-C Hub #050,Electronics,49.7,3.9,89,613
+0051,Blender #051,Home & Kitchen,143.16,4.1,63,435
+0052,Knife Set #052,Home & Kitchen,17.69,3.1,66,649
+0053,Coffee Maker #053,Home & Kitchen,63.42,4.0,23,209
+0054,Storage Box #054,Home & Kitchen,20.09,4.0,257,2151
+0055,Storage Box #055,Home & Kitchen,35.54,3.6,17,180
+0056,Blender #056,Home & Kitchen,77.57,3.8,17,152
+0057,Vacuum Cleaner #057,Home & Kitchen,46.47,4.0,110,1018
+0058,Storage Box #058,Home & Kitchen,26.25,3.7,106,760
+0059,Storage Box #059,Home & Kitchen,31.47,4.0,36,664
+0060,Storage Box #060,Home & Kitchen,63.21,3.5,52,666
+0061,Storage Box #061,Home & Kitchen,31.23,4.0,57,399
+0062,Air Fryer #062,Home & Kitchen,50.14,4.2,27,196
+0063,Air Fryer #063,Home & Kitchen,46.04,4.5,40,428
+0064,Vacuum Cleaner #064,Home & Kitchen,32.49,3.5,26,234
+0065,Coffee Maker #065,Home & Kitchen,131.45,4.3,68,880
+0066,Storage Box #066,Home & Kitchen,61.78,2.9,24,358
+0067,Blender #067,Home & Kitchen,16.35,3.5,20,208
+0068,Coffee Maker #068,Home & Kitchen,49.4,4.2,26,311
+0069,Blender #069,Home & Kitchen,32.32,4.0,60,561
+0070,Coffee Maker #070,Home & Kitchen,68.92,3.4,14,256
+0071,Vacuum Cleaner #071,Home & Kitchen,30.28,3.9,30,208
+0072,Storage Box #072,Home & Kitchen,42.49,3.8,72,490
+0073,Storage Box #073,Home & Kitchen,57.93,3.7,58,490
+0074,Knife Set #074,Home & Kitchen,69.38,3.9,27,268
+0075,Blender #075,Home & Kitchen,24.69,4.1,22,276
+0076,Coffee Maker #076,Home & Kitchen,38.07,3.7,63,485
+0077,Coffee Maker #077,Home & Kitchen,35.49,4.3,14,126
+0078,Air Fryer #078,Home & Kitchen,32.46,4.1,8,130
+0079,Knife Set #079,Home & Kitchen,108.79,3.9,32,227
+0080,Air Fryer #080,Home & Kitchen,55.1,4.2,44,340
+0081,Air Fryer #081,Home & Kitchen,23.96,3.7,74,517
+0082,Air Fryer #082,Home & Kitchen,71.21,3.4,160,1313
+0083,Blender #083,Home & Kitchen,130.03,3.9,89,801
+0084,Blender #084,Home & Kitchen,75.41,3.8,32,354
+0085,Vacuum Cleaner #085,Home & Kitchen,21.05,3.9,56,397
+0086,Vacuum Cleaner #086,Home & Kitchen,35.32,4.0,24,180
+0087,Air Fryer #087,Home & Kitchen,84.78,4.0,21,397
+0088,Knife Set #088,Home & Kitchen,31.59,3.7,16,320
+0089,Coffee Maker #089,Home & Kitchen,56.18,4.1,45,522
+0090,Blender #090,Home & Kitchen,66.29,3.5,27,208
+0091,Knife Set #091,Home & Kitchen,28.31,3.9,90,611
+0092,Storage Box #092,Home & Kitchen,43.68,4.3,89,1374
+0093,Blender #093,Home & Kitchen,8.9,3.9,40,369
+0094,Blender #094,Home & Kitchen,26.96,4.2,48,556
+0095,Vacuum Cleaner #095,Home & Kitchen,39.66,4.4,102,700
+0096,Coffee Maker #096,Home & Kitchen,24.11,4.0,39,292
+0097,Coffee Maker #097,Home & Kitchen,101.79,3.8,64,482
+0098,Storage Box #098,Home & Kitchen,22.01,3.8,39,407
+0099,Storage Box #099,Home & Kitchen,36.11,4.1,39,436
+0100,Blender #100,Home & Kitchen,48.04,3.9,16,217
+0101,Serum #101,Beauty,15.43,3.8,13,98
+0102,Sunscreen #102,Beauty,35.23,4.1,42,377
+0103,Sunscreen #103,Beauty,42.44,5.0,27,446
+0104,Hair Dryer #104,Beauty,10.38,4.0,25,176
+0105,Face Cream #105,Beauty,13.84,3.6,68,605
+0106,Serum #106,Beauty,9.02,3.3,8,96
+0107,Hair Dryer #107,Beauty,21.85,3.4,21,344
+0108,Face Cream #108,Beauty,35.79,4.0,17,137
+0109,Eye Mask #109,Beauty,52.99,3.7,24,215
+0110,Lipstick Set #110,Beauty,25.94,3.5,38,377
+0111,Sunscreen #111,Beauty,56.44,3.7,25,182
+0112,Eye Mask #112,Beauty,12.54,3.2,34,266
+0113,Face Cream #113,Beauty,10.67,4.2,52,812
+0114,Eye Mask #114,Beauty,24.32,4.3,18,228
+0115,Lipstick Set #115,Beauty,30.29,3.9,52,708
+0116,Face Cream #116,Beauty,24.59,4.5,18,147
+0117,Eye Mask #117,Beauty,8.89,3.6,29,554
+0118,Sunscreen #118,Beauty,23.91,3.6,123,1150
+0119,Sunscreen #119,Beauty,13.02,4.1,6,50
+0120,Hair Dryer #120,Beauty,34.94,4.1,26,191
+0121,Eye Mask #121,Beauty,30.03,3.6,48,576
+0122,Serum #122,Beauty,15.63,3.5,40,308
+0123,Eye Mask #123,Beauty,19.34,3.3,29,488
+0124,Face Cream #124,Beauty,14.72,3.1,30,223
+0125,Face Cream #125,Beauty,24.23,4.3,24,389
+0126,Eye Mask #126,Beauty,40.3,4.6,28,320
+0127,Lipstick Set #127,Beauty,15.27,3.1,119,924
+0128,Sunscreen #128,Beauty,32.17,4.1,28,445
+0129,Face Cream #129,Beauty,19.18,3.4,34,475
+0130,Sunscreen #130,Beauty,16.82,3.4,31,261
+0131,Face Cream #131,Beauty,23.7,3.7,29,245
+0132,Hair Dryer #132,Beauty,14.9,3.3,29,256
+0133,Serum #133,Beauty,18.95,3.6,59,497
+0134,Face Cream #134,Beauty,13.73,3.3,27,259
+0135,Sunscreen #135,Beauty,66.77,3.7,34,457
+0136,Hair Dryer #136,Beauty,25.44,3.9,161,1910
+0137,Face Cream #137,Beauty,17.62,3.5,49,728
+0138,Lipstick Set #138,Beauty,27.82,3.6,39,279
+0139,Serum #139,Beauty,23.63,3.7,102,949
+0140,Face Cream #140,Beauty,22.38,4.2,23,261
+0141,Hair Dryer #141,Beauty,33.99,4.1,6,71
+0142,Lipstick Set #142,Beauty,36.51,3.6,23,162
+0143,Eye Mask #143,Beauty,19.18,3.6,5,81
+0144,Hair Dryer #144,Beauty,18.75,3.9,29,274
+0145,Hair Dryer #145,Beauty,21.79,3.4,37,368
+0146,Lipstick Set #146,Beauty,7.91,3.8,154,1388
+0147,Hair Dryer #147,Beauty,11.72,3.4,24,471
+0148,Lipstick Set #148,Beauty,49.52,4.1,41,304
+0149,Face Cream #149,Beauty,56.9,3.7,100,704
+0150,Lipstick Set #150,Beauty,22.07,3.3,6,61
+0151,Dumbbell Set #151,Sports,44.31,4.6,32,260
+0152,Jump Rope #152,Sports,16.29,3.8,122,1775
+0153,Water Bottle #153,Sports,58.84,4.4,44,729
+0154,Yoga Mat #154,Sports,24.69,4.1,31,346
+0155,Yoga Mat #155,Sports,22.24,3.9,112,868
+0156,Water Bottle #156,Sports,24.41,3.6,23,189
+0157,Jump Rope #157,Sports,36.4,3.7,3,64
+0158,Yoga Mat #158,Sports,16.66,3.5,12,127
+0159,Yoga Mat #159,Sports,34.36,4.4,32,317
+0160,Yoga Mat #160,Sports,43.38,4.2,27,236
+0161,Resistance Band #161,Sports,60.89,3.7,62,546
+0162,Resistance Band #162,Sports,38.22,4.3,22,255
+0163,Running Shoes #163,Sports,17.91,3.8,54,513
+0164,Dumbbell Set #164,Sports,37.71,4.0,92,938
+0165,Water Bottle #165,Sports,20.6,3.4,35,254
+0166,Water Bottle #166,Sports,20.01,4.3,45,440
+0167,Water Bottle #167,Sports,17.71,3.4,6,69
+0168,Running Shoes #168,Sports,13.46,4.0,23,255
+0169,Resistance Band #169,Sports,26.36,4.4,11,105
+0170,Jump Rope #170,Sports,61.55,3.4,41,317
+0171,Jump Rope #171,Sports,108.16,3.9,35,341
+0172,Running Shoes #172,Sports,26.27,3.8,39,340
+0173,Jump Rope #173,Sports,60.24,3.5,23,192
+0174,Water Bottle #174,Sports,28.73,4.0,181,1775
+0175,Dumbbell Set #175,Sports,15.33,3.7,9,102
+0176,Yoga Mat #176,Sports,49.69,4.0,13,97
+0177,Resistance Band #177,Sports,39.36,3.5,97,1061
+0178,Resistance Band #178,Sports,86.87,3.6,15,160
+0179,Running Shoes #179,Sports,16.25,4.4,19,132
+0180,Resistance Band #180,Sports,141.65,2.6,89,1782
+0181,Water Bottle #181,Sports,77.57,3.9,42,621
+0182,Jump Rope #182,Sports,34.69,4.3,15,175
+0183,Water Bottle #183,Sports,30.15,3.5,48,336
+0184,Running Shoes #184,Sports,24.47,3.8,76,1339
+0185,Water Bottle #185,Sports,36.97,3.6,25,491
+0186,Jump Rope #186,Sports,31.92,4.6,43,790
+0187,Dumbbell Set #187,Sports,45.25,4.3,31,537
+0188,Running Shoes #188,Sports,30.21,4.4,31,594
+0189,Dumbbell Set #189,Sports,71.01,3.6,28,291
+0190,Yoga Mat #190,Sports,37.26,4.4,30,284
+0191,Dumbbell Set #191,Sports,30.78,3.9,26,349
+0192,Yoga Mat #192,Sports,58.41,4.4,45,508
+0193,Yoga Mat #193,Sports,15.55,3.5,13,225
+0194,Dumbbell Set #194,Sports,41.51,3.7,26,311
+0195,Running Shoes #195,Sports,35.45,4.6,22,220
+0196,Jump Rope #196,Sports,17.29,3.6,38,309
+0197,Water Bottle #197,Sports,14.9,3.3,5,103
+0198,Water Bottle #198,Sports,58.0,3.6,219,2271
+0199,Jump Rope #199,Sports,56.64,3.6,12,157
+0200,Yoga Mat #200,Sports,38.15,4.2,28,211
+0201,Remote Car #201,Toys,69.87,3.5,49,432
+0202,Board Game #202,Toys,25.29,4.3,8,91
+0203,Board Game #203,Toys,8.55,3.8,22,203
+0204,Drone #204,Toys,21.85,3.7,18,222
+0205,Board Game #205,Toys,8.01,3.4,10,111
+0206,Building Blocks #206,Toys,97.46,3.8,101,812
+0207,Drone #207,Toys,61.16,3.8,13,100
+0208,Drone #208,Toys,14.34,3.4,145,1554
+0209,Plush Toy #209,Toys,6.51,3.5,84,1551
+0210,Board Game #210,Toys,12.89,4.2,15,237
+0211,Drone #211,Toys,18.27,3.4,21,419
+0212,Building Blocks #212,Toys,8.29,4.3,35,304
+0213,Plush Toy #213,Toys,19.32,4.0,55,664
+0214,Remote Car #214,Toys,18.21,4.2,93,894
+0215,Drone #215,Toys,21.29,3.7,39,396
+0216,Building Blocks #216,Toys,22.43,3.9,27,469
+0217,Puzzle Set #217,Toys,12.34,3.4,17,196
+0218,Building Blocks #218,Toys,13.05,4.0,32,457
+0219,Building Blocks #219,Toys,20.46,3.8,33,367
+0220,Plush Toy #220,Toys,14.59,3.9,10,155
+0221,Remote Car #221,Toys,31.48,4.2,42,319
+0222,Puzzle Set #222,Toys,20.36,3.9,15,237
+0223,Board Game #223,Toys,50.82,4.4,28,198
+0224,Board Game #224,Toys,30.14,4.0,11,128
+0225,Building Blocks #225,Toys,34.73,4.2,45,339
+0226,Plush Toy #226,Toys,21.37,3.8,19,172
+0227,Plush Toy #227,Toys,21.64,3.7,27,221
+0228,Board Game #228,Toys,47.53,4.2,96,762
+0229,Puzzle Set #229,Toys,16.55,3.8,53,535
+0230,Remote Car #230,Toys,26.29,4.0,15,147
+0231,Puzzle Set #231,Toys,17.51,3.5,43,427
+0232,Drone #232,Toys,17.49,4.1,38,358
+0233,Drone #233,Toys,11.15,3.2,66,1259
+0234,Remote Car #234,Toys,13.8,3.2,87,975
+0235,Board Game #235,Toys,12.57,3.9,10,94
+0236,Remote Car #236,Toys,26.92,4.3,70,642
+0237,Plush Toy #237,Toys,33.64,4.1,114,888
+0238,Drone #238,Toys,19.07,3.5,58,504
+0239,Building Blocks #239,Toys,22.43,4.1,36,246
+0240,Building Blocks #240,Toys,18.53,4.2,174,2225
+0241,Board Game #241,Toys,13.33,4.5,46,543
+0242,Plush Toy #242,Toys,30.78,3.4,138,1568
+0243,Puzzle Set #243,Toys,27.72,3.8,91,951
+0244,Plush Toy #244,Toys,7.76,3.4,62,467
+0245,Building Blocks #245,Toys,17.36,4.2,14,202
+0246,Building Blocks #246,Toys,12.87,2.7,40,316
+0247,Drone #247,Toys,16.45,3.8,24,270
+0248,Plush Toy #248,Toys,14.3,3.5,13,122
+0249,Plush Toy #249,Toys,19.54,4.2,61,542
+0250,Building Blocks #250,Toys,16.96,4.1,98,1130
+0251,Scratching Post #251,Pet Supplies,7.94,4.0,27,296
+0252,Scratching Post #252,Pet Supplies,32.89,4.2,20,164
+0253,Cat Litter Box #253,Pet Supplies,38.0,3.9,16,311
+0254,Cat Litter Box #254,Pet Supplies,19.67,3.9,19,229
+0255,Toy Ball #255,Pet Supplies,14.25,3.9,34,260
+0256,Pet Bed #256,Pet Supplies,44.08,3.8,76,692
+0257,Scratching Post #257,Pet Supplies,19.64,3.1,13,157
+0258,Toy Ball #258,Pet Supplies,31.03,3.6,51,365
+0259,Toy Ball #259,Pet Supplies,13.9,3.1,65,517
+0260,Dog Leash #260,Pet Supplies,18.4,4.0,10,142
+0261,Cat Litter Box #261,Pet Supplies,9.7,4.1,14,125
+0262,Pet Bed #262,Pet Supplies,24.66,4.5,23,214
+0263,Scratching Post #263,Pet Supplies,19.8,2.9,15,167
+0264,Toy Ball #264,Pet Supplies,11.51,4.0,52,608
+0265,Scratching Post #265,Pet Supplies,11.59,4.4,9,108
+0266,Dog Leash #266,Pet Supplies,40.38,4.3,28,255
+0267,Pet Bed #267,Pet Supplies,48.24,3.2,174,1855
+0268,Toy Ball #268,Pet Supplies,16.18,4.2,44,336
+0269,Scratching Post #269,Pet Supplies,18.62,3.6,44,384
+0270,Cat Litter Box #270,Pet Supplies,21.99,3.9,34,612
+0271,Dog Leash #271,Pet Supplies,19.38,3.8,19,167
+0272,Pet Bed #272,Pet Supplies,7.79,3.2,7,101
+0273,Dog Leash #273,Pet Supplies,22.29,4.0,30,278
+0274,Cat Litter Box #274,Pet Supplies,6.34,4.2,35,299
+0275,Pet Bed #275,Pet Supplies,12.48,3.8,4,66
+0276,Dog Leash #276,Pet Supplies,23.18,4.0,31,326
+0277,Pet Food Bowl #277,Pet Supplies,24.3,4.0,39,569
+0278,Cat Litter Box #278,Pet Supplies,12.01,3.2,6,116
+0279,Cat Litter Box #279,Pet Supplies,14.31,3.5,30,342
+0280,Cat Litter Box #280,Pet Supplies,13.38,3.0,42,494
+0281,Pet Food Bowl #281,Pet Supplies,17.1,4.0,57,387
+0282,Pet Food Bowl #282,Pet Supplies,17.76,2.8,39,417
+0283,Scratching Post #283,Pet Supplies,25.14,4.2,16,199
+0284,Toy Ball #284,Pet Supplies,13.9,3.9,10,98
+0285,Dog Leash #285,Pet Supplies,21.69,4.4,9,169
+0286,Scratching Post #286,Pet Supplies,23.19,4.0,22,151
+0287,Dog Leash #287,Pet Supplies,19.88,3.9,25,227
+0288,Toy Ball #288,Pet Supplies,15.81,3.5,72,580
+0289,Pet Food Bowl #289,Pet Supplies,19.7,3.2,5,84
+0290,Toy Ball #290,Pet Supplies,26.21,4.5,24,271
+0291,Pet Food Bowl #291,Pet Supplies,27.38,3.9,9,103
+0292,Toy Ball #292,Pet Supplies,44.61,3.5,17,133
+0293,Scratching Post #293,Pet Supplies,10.97,3.4,18,378
+0294,Pet Bed #294,Pet Supplies,14.45,3.5,7,93
+0295,Scratching Post #295,Pet Supplies,8.03,3.8,64,435
+0296,Dog Leash #296,Pet Supplies,28.67,4.8,7,82
+0297,Scratching Post #297,Pet Supplies,15.23,3.8,36,412
+0298,Cat Litter Box #298,Pet Supplies,19.95,3.7,4,70
+0299,Dog Leash #299,Pet Supplies,13.31,4.5,21,147
+0300,Toy Ball #300,Pet Supplies,15.29,3.9,57,1103
